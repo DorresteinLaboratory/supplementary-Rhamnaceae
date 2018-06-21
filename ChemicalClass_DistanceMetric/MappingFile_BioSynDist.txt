@@ -1,0 +1,72 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	Description	Nation	Extraction solvent	Genus	AllSamples
+Alphitonia.philippinensis..1.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Alphitonia	All
+Berchemia.floribunda..2.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Berchemia	All
+Berchemia.giraldiana..3.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Berchemia	All
+Berchemia.hirtella..4.	GATACA	GATACA	Metabolome	China	Ethanol	Berchemia	All
+Berchemia.huana..5.	GATACA	GATACA	Metabolome	China	Ethanol	Berchemia	All
+Berchemia.kulingensis..6.	GATACA	GATACA	Metabolome	China	Methanol	Berchemia	All
+Berchemia.lineata..7.	GATACA	GATACA	Metabolome	China	Ethanol	Berchemia	All
+Berchemia.loureiroana..8.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Berchemia	All
+Berchemia.sinica..9.	GATACA	GATACA	Metabolome	China	Methanol	Berchemia	All
+Berchemia.yunnanensis..10.	GATACA	GATACA	Metabolome	China	Ethanol	Berchemia	All
+Ceanothus.asiaticus..11.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Ceanothus	All
+Colubrina.arborescens..12.	GATACA	GATACA	Metabolome	China	Ethanol	Colubrina	All
+Colubrina.asiatica..13.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Colubrina	All
+Colubrina.pubescens..14.	GATACA	GATACA	Metabolome	Laos	Methanol	Colubrina	All
+Colubrina.spinosa..15.	GATACA	GATACA	Metabolome	Costa Rica	Ethanol	Colubrina	All
+Gouania.leptostachya..16.	GATACA	GATACA	Metabolome	China	Ethanol	Gouania	All
+Guoania.javanica..17.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Gouania	All
+Gouania.leptostachya..18.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Gouania	All
+Gouania.hypoglauca..19.	GATACA	GATACA	Metabolome	Costa Rica	Ethanol	Gouania	All
+Gouania.polygama..20.	GATACA	GATACA	Metabolome	Costa Rica	Ethanol	Gouania	All
+Hovenia.acerba..21.	GATACA	GATACA	Metabolome	China	Methanol	Hovenia	All
+Hovenia.acerba.var..kiukiangensis..22.	GATACA	GATACA	Metabolome	China	Ethanol	Hovenia	All
+Karwinskia.calderonii..23.	GATACA	GATACA	Metabolome	Costa Rica	Ethanol	Karwinskia	All
+Krugiodendron.ferreum..24.	GATACA	GATACA	Metabolome	Costa Rica	Ethanol	Krugiodendron	All
+Paliurus.perforatus..25.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Paliurus	All
+Rhamnella.franguloides..26.	GATACA	GATACA	Metabolome	China	Methanol	Rhamnella	All
+Rhamnella.tonkinensis..27.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Rhamnella	All
+Rhamnus.crenata..28.	GATACA	GATACA	Metabolome	China	Methanol	Rhamnus	All
+Rhamnus.davurica..29.	GATACA	GATACA	Metabolome	China	Ethanol	Rhamnus	All
+Rhamnus.diamantiaca..30.	GATACA	GATACA	Metabolome	China	Methanol	Rhamnus	All
+Rhamnus.erythroxylon..31.	GATACA	GATACA	Metabolome	Mongolia	Methanol	Rhamnus	All
+Rhamnus.globosa..32.	GATACA	GATACA	Metabolome	China	Methanol	Rhamnus	All
+Rhamnus.hainanensis..33.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Rhamnus	All
+Rhamnus.koraiensis..34.	GATACA	GATACA	Metabolome	China	Methanol	Rhamnus	All
+Rhamnus.leptophylla..35.	GATACA	GATACA	Metabolome	China	Ethanol	Rhamnus	All
+Rhamnus.longipes..36.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Rhamnus	All
+Rhamnus.napalensis..37.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Rhamnus	All
+Rhamnus.oreodendron..38.	GATACA	GATACA	Metabolome	Costa Rica	Ethanol	Rhamnus	All
+Rhamnus.parvifolia..39.	GATACA	GATACA	Metabolome	China	Methanol	Rhamnus	All
+Rhamnus.rosthornii..40.	GATACA	GATACA	Metabolome	China	Ethanol	Rhamnus	All
+Rhamnus.sphaerosperma..41.	GATACA	GATACA	Metabolome	Costa Rica	Ethanol	Rhamnus	All
+Rhamnus.subapetala..42.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Rhamnus	All
+Rhamnus.utilis..43.	GATACA	GATACA	Metabolome	China	Ethanol	Rhamnus	All
+Sageretia.pauciflora..44.	GATACA	GATACA	Metabolome	China	Ethanol	Sageretia	All
+Sageretia.thea..45.	GATACA	GATACA	Metabolome	China	Ethanol	Sageretia	All
+Scutia.eberhardtia..46.	GATACA	GATACA	Metabolome	Laos	Methanol	Scutia	All
+Scutia.myrtina..47.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Scutia	All
+Ventilago.calyculata..48.	GATACA	GATACA	Metabolome	China	Ethanol	Ventilago	All
+Ventilago.calyculata.var..trichoclada..49.	GATACA	GATACA	Metabolome	China	Ethanol	Ventilago	All
+Ventilago.cristata..50.	GATACA	GATACA	Metabolome	Cambodia	Methanol	Ventilago	All
+Ventilago.denticulate..51.	GATACA	GATACA	Metabolome	Laos	Methanol	Ventilago	All
+Ventilago.inaequilateralis..52.	GATACA	GATACA	Metabolome	China	Ethanol	Ventilago	All
+Ventilago.leiocarpa..53.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Ventilago	All
+Ventilago.leiocarpa.var..pubescens..54.	GATACA	GATACA	Metabolome	China	Ethanol	Ventilago	All
+Ventilago.maderaspatana..55.	GATACA	GATACA	Metabolome	China	Ethanol	Ventilago	All
+Ventilago.oblongifolia..56.	GATACA	GATACA	Metabolome	China	Ethanol	Ventilago	All
+Ventilago.pauciflora..57.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Ventilago	All
+Ziziphus.apetala..58.	GATACA	GATACA	Metabolome	China	Ethanol	Ziziphus	All
+Ziziphus.attopensis..59.	GATACA	GATACA	Metabolome	China	Ethanol	Ziziphus	All
+Ziziphus.cambodiana..60.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Ziziphus	All
+Ziziphus.funiculosa..61.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Ziziphus	All
+Ziziphus.guatemalensis..62.	GATACA	GATACA	Metabolome	Costa Rica	Ethanol	Ziziphus	All
+Ziziphus.horsfieldii..63.	GATACA	GATACA	Metabolome	Indonesia	Methanol	Ziziphus	All
+Ziziphus.incurva..64.	GATACA	GATACA	Metabolome	Nepal	Methanol	Ziziphus	All
+Ziziphus.mauritiana..65.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Ziziphus	All
+Ziziphus.oenopolia..66.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Ziziphus	All
+Ziziphus.poilaneo..67.	GATACA	GATACA	Metabolome	Vietnam	Methanol	Ziziphus	All
+Ziziphus.rotundifolia..68.	GATACA	GATACA	Metabolome	Indonesia	Methanol	Ziziphus	All
+Ziziphus.rugosa..69.	GATACA	GATACA	Metabolome	China	Ethanol	Ziziphus	All
+Ziziphus.rugosa.var..harmandii..70.	GATACA	GATACA	Metabolome	Laos	Methanol	Ziziphus	All
+Ziziphus.thyrsiflora..71.	GATACA	GATACA	Metabolome	Ecuador	Methanol	Ziziphus	All
