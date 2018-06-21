@@ -24,3 +24,7 @@ The folder called **Mass2Motifs_2_MolecularNetwork** contains R scripts and data
 ## ChemicalClass_DistanceMetric
 
 The folder called **ChemicalClass_DistanceMetric** contains python and R scripts as well as data files used for calculating a  chemically informed distance metric based on ClassyFire chemical ontology inspired by the metric proposed by [Junker, 2018](https://link.springer.com/article/10.1007/s00049-017-0250-4).
+
+## CSCD
+
+The folder called **CSCD** contains jupyter notebooks and data files used for calculating the chemical structural and compositional dissimilarity (CSCD) proposed by [Sedio et al., 2017](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1689).
