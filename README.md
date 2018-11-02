@@ -1,5 +1,5 @@
 # supplementary-Rhamnaceae
-This repository contains supplementary materials relating to the manuscript "Digitizing the chemoevolution of plant specialized metabolites using mass spectrometry".
+This repository contains supplementary materials relating to the manuscript "Comprehensive mass spectrometry-guided plant specialized metabolite phenotyping reveals metabolic diversity in the cosmopolitan plant family Rhamnaceae".
 
 # Citation
 
