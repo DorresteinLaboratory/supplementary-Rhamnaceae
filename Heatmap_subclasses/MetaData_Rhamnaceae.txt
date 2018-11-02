@@ -1,0 +1,72 @@
+filename	Nation	Extraction solvent	Genus	AllSamples
+Alphitonia philippinensis (1)	Vietnam	Methanol	Alphitonia	All
+Berchemia floribunda (2)	Vietnam	Methanol	Berchemia	All
+Berchemia giraldiana (3)	Vietnam	Methanol	Berchemia	All
+Berchemia hirtella (4)	China	Ethanol	Berchemia	All
+Berchemia huana (5)	China	Ethanol	Berchemia	All
+Berchemia kulingensis (6)	China	Methanol	Berchemia	All
+Berchemia lineata (7)	China	Ethanol	Berchemia	All
+Berchemia loureiroana (8)	Vietnam	Methanol	Berchemia	All
+Berchemia sinica (9)	China	Methanol	Berchemia	All
+Berchemia yunnanensis (10)	China	Ethanol	Berchemia	All
+Ceanothus asiaticus (11)	Vietnam	Methanol	Ceanothus	All
+Colubrina arborescens (12)	China	Ethanol	Colubrina	All
+Colubrina asiatica (13)	Vietnam	Methanol	Colubrina	All
+Colubrina pubescens (14)	Laos	Methanol	Colubrina	All
+Colubrina spinosa (15)	Costa Rica	Ethanol	Colubrina	All
+Gouania leptostachya (16)	China	Ethanol	Gouania	All
+Guoania javanica (17)	Vietnam	Methanol	Gouania	All
+Gouania leptostachya (18)	Vietnam	Methanol	Gouania	All
+Gouania hypoglauca (19)	Costa Rica	Ethanol	Gouania	All
+Gouania polygama (20)	Costa Rica	Ethanol	Gouania	All
+Hovenia acerba (21)	China	Methanol	Hovenia	All
+Hovenia acerba var. kiukiangensis (22)	China	Ethanol	Hovenia	All
+Karwinskia calderonii (23)	Costa Rica	Ethanol	Karwinskia	All
+Krugiodendron ferreum (24)	Costa Rica	Ethanol	Krugiodendron	All
+Paliurus perforatus (25)	Vietnam	Methanol	Paliurus	All
+Rhamnella franguloides (26)	China	Methanol	Rhamnella	All
+Rhamnella tonkinensis (27)	Vietnam	Methanol	Rhamnella	All
+Rhamnus crenata (28)	China	Methanol	Rhamnus	All
+Rhamnus davurica (29)	China	Ethanol	Rhamnus	All
+Rhamnus diamantiaca (30)	China	Methanol	Rhamnus	All
+Rhamnus erythroxylon (31)	Mongolia	Methanol	Rhamnus	All
+Rhamnus globosa (32)	China	Methanol	Rhamnus	All
+Rhamnus hainanensis (33)	Vietnam	Methanol	Rhamnus	All
+Rhamnus koraiensis (34)	China	Methanol	Rhamnus	All
+Rhamnus leptophylla (35)	China	Ethanol	Rhamnus	All
+Rhamnus longipes (36)	Vietnam	Methanol	Rhamnus	All
+Rhamnus napalensis (37)	Vietnam	Methanol	Rhamnus	All
+Rhamnus oreodendron (38)	Costa Rica	Ethanol	Rhamnus	All
+Rhamnus parvifolia (39)	China	Methanol	Rhamnus	All
+Rhamnus rosthornii (40)	China	Ethanol	Rhamnus	All
+Rhamnus sphaerosperma (41)	Costa Rica	Ethanol	Rhamnus	All
+Rhamnus subapetala (42)	Vietnam	Methanol	Rhamnus	All
+Rhamnus utilis (43)	China	Ethanol	Rhamnus	All
+Sageretia pauciflora (44)	China	Ethanol	Sageretia	All
+Sageretia thea (45)	China	Ethanol	Sageretia	All
+Scutia eberhardtia (46)	Laos	Methanol	Scutia	All
+Scutia myrtina (47)	Vietnam	Methanol	Scutia	All
+Ventilago calyculata (48)	China	Ethanol	Ventilago	All
+Ventilago calyculata var. trichoclada (49)	China	Ethanol	Ventilago	All
+Ventilago cristata (50)	Cambodia	Methanol	Ventilago	All
+Ventilago denticulate (51)	Laos	Methanol	Ventilago	All
+Ventilago inaequilateralis (52)	China	Ethanol	Ventilago	All
+Ventilago leiocarpa (53)	Vietnam	Methanol	Ventilago	All
+Ventilago leiocarpa var. pubescens (54)	China	Ethanol	Ventilago	All
+Ventilago maderaspatana (55)	China	Ethanol	Ventilago	All
+Ventilago oblongifolia (56)	China	Ethanol	Ventilago	All
+Ventilago pauciflora (57)	Vietnam	Methanol	Ventilago	All
+Ziziphus apetala (58)	China	Ethanol	Ziziphus	All
+Ziziphus attopensis (59)	China	Ethanol	Ziziphus	All
+Ziziphus cambodiana (60)	Vietnam	Methanol	Ziziphus	All
+Ziziphus funiculosa (61)	Vietnam	Methanol	Ziziphus	All
+Ziziphus guatemalensis (62)	Costa Rica	Ethanol	Ziziphus	All
+Ziziphus horsfieldii (63)	Indonesia	Methanol	Ziziphus	All
+Ziziphus incurva (64)	Nepal	Methanol	Ziziphus	All
+Ziziphus mauritiana (65)	Vietnam	Methanol	Ziziphus	All
+Ziziphus oenopolia (66)	Vietnam	Methanol	Ziziphus	All
+Ziziphus poilaneo (67)	Vietnam	Methanol	Ziziphus	All
+Ziziphus rotundifolia (68)	Indonesia	Methanol	Ziziphus	All
+Ziziphus rugosa (69)	China	Ethanol	Ziziphus	All
+Ziziphus rugosa var. harmandii (70)	Laos	Methanol	Ziziphus	All
+Ziziphus thyrsiflora (71)	Ecuador	Methanol	Ziziphus	All
