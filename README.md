@@ -28,6 +28,14 @@ The folder called **Heatmap_subclasses** contains Jupyter notebook and data file
 ## Heatmap_Mass2Motifs
 
 The folder called **Heatmap_Mass2Motifs** contains Jupyter notebook and data files for Mass2Motifs distribution heatmap (Figure 4).
+ 
+### Motifs_featuretable.ipynb
+
+Jupyter notebook used for creating Mass2Motifs-related feature table with ion count cutoff 1000.
+
+### Heatmap_Motif_Drawing.ipynb
+
+Jupyter notebook used for drawing the heatmap.
 
 ## ChemicalClass_DistanceMetric
 
