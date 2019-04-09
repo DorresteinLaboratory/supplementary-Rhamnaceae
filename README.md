@@ -3,7 +3,7 @@ This repository contains supplementary materials relating to the manuscript "Com
 
 # Citation
 
-A DOI will be provided upon manuscript publication.
+Kang KB#, Ernst M#, van der Hooft JJJ#, da Silva RR, Park J, Medema M, Sung SH, Dorrestein PC. Comprehensive mass spectrometry-guided phenotyping of plant specialized metabolite reveals metabolic diversity in the cosmopolitan plant family Rhamnaceae. *The Plant Journal* (in press) (2019) (#Denotes equal contribution) [DOI:10.1111/tpj.14292](https://doi.org/10.1111/tpj.14292)
 
 # Jupyter notebooks
 
